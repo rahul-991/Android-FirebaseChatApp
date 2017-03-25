@@ -48,7 +48,7 @@ import android.support.v4.app.Fragment;
 
 public class GroupChatFragment extends Fragment
 {
-    //private Firebase GroupmRef = new Firebase("https://fir-uberapp.firebaseio.com/Groups");
+    
     private ListView mListView;
     private FirebaseAuth mAuth;
     String name;
