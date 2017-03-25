@@ -36,7 +36,7 @@ import de.hdodenhof.circleimageview.CircleImageView;
 
 public class MainActivity extends AppCompatActivity
 {
-    private Firebase mRef = new Firebase("https://fir-uberapp.firebaseio.com/Users");
+    private Firebase mRef = /*Firebase Database URL*/;
     private GoogleApiClient mGoogleApiClient;
     private DrawerLayout mDrawerLayout;
     private NavigationView mNavigationView;
