@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string-array name="MenuItems">
+        <item>Chat</item>
+        <item>Navigation</item>
+        <item>Hotspots</item>
+        <item>Log Out</item>
+
+
+
+    <item android:title="Sub items">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:icon="@drawable/ic_dashboard"
+                    android:title="Sub item 1" />
+                <item
+                    android:icon="@drawable/ic_forum"
+                    android:title="Sub item 2" />
+            </group>
+        </menu>
+    </item>
+    </string-array>
+</resources>

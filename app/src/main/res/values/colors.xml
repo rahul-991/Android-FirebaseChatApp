@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#c3052e</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="material_deep_purple_50">#ede7f6</color>
+    <color name="material_deep_purple_500">#673ab7</color>
+    <color name="material_deep_purple_700">#512da8</color>
+    <color name="material_deep_purple_a200">#e040fb</color>
+
+    <color name="material_green_50">#e8f5e9</color>
+    <color name="material_green_500">#4CAF50</color>
+    <color name="material_green_700">#388e3c</color>
+    <color name="material_green_300">#AED581</color>
+    <color name="material_green_a200">#69F0AE</color>
+
+    <color name="material_grey_300">#E0E0E0</color>
+
+    <color name="material_lime_50">#e1f24a</color>
+    <color name="material_lime_a700">#AEEA00</color>
+
+    <color name="material_purple_50">#f3e5f5</color>
+    <color name="material_purple_a700">#aa00ff</color>
+
+    <color name="material_red_a200">#ff68c0</color>
+    <color name="list_background">#ff4081</color>
+    <color name="list_background_pressed">#F9FBE7</color>
+</resources>

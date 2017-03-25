@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\4cb65f52a06938823b36d0de34d607719981c2d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7eeab117cb55e0f1643364876b5202e6f6d93eb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_3b48d98c6a5705fced7839663d954236ce300f94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\07ae0bc1b80c8a8ee6e260ca19ddec206c62a894\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a072e2a7256804d6385ae5329207638af477dd60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\b0aa11df3f7502173f7645984a12b8d66f69cd13\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fbefc05138462083cd2777cc08e8df8433aca41c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\fa2dd51e9fd6d01592fe8f296cdf7581f4313b17\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11d74f860e6f275bf4a2ba07b63658e5dfa356c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\Desktop\UberApp\app\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.5.2_2245b1b56773c81d34db2d0a7fa84937ce96ab9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\Desktop\UberApp\app\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley_c955f00432081c57403908ac00be19e39afe7917\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\5cd53230fb9e65edfc6e19a3be60f9b92ff05f40\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ce6ea95d7ea758e461f8071a627b235a32dd30a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\0ee746d58e45bcb1e98b8c0a251425f124872ad4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_584e7808518190c8de06be15c94876a03bb5f816\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\6b1696696c36cbf0cac8ab787a42781a97374eb0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a1fa0b99d2275dd1d03488c9365ddcf16411217\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.2.0\6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c\okhttp-urlconnection-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-3.2.0_370365086e19d4e1bc1631aec66f3c08a379cc46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\4396c0baf476a247966d20db243b3ad38cd36c40\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6569a8944b44aea727558740739147aea7938fb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.3.1\4d53b7d6983247af02b8fe7e4228fff555a5e828\firebase-client-jvm-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.3.1_d3410cab78441d879aa35c26404553be4a47a593\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\8d0232881aa75ffe00d14850177a4cbaff2aef99\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_923f687589696079435e77766540541ca255bcfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\f4667bca63c3b22a98e2f15b23c57c8e575befff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_afe740fa6bde43f0482d0b90fb4157756f22d3c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\69fd5504ebfba7d8a5dc09cdca1fe9548e279688\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_06e987ae6b2bf6d740a632bdf72201557ad7dbe3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\9d79647b69d2793450ad8267255cd2edd39e4424\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d6b20d546c12309687bce7d9774849df61b52a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_be391b2e4995fb7840065d4bde0162e7d548acf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_3de731d6888f2d9c1623d14e9c70305793394a89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta4_fb15d094c4e2a83358b34bb999b93b6b081937a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_3620d0b8a05ca3e4c94320a2e2ee36ded78ab51f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\8eadbf5fb77ada5b1b98a83c75ef970ee3d46763\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5e546ae7d251eb9562f4db0135b777ef78d44a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\11ce50df12a2eea64f7b78d1e4b748a7c3555e1f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_295a60e5aed5b8a9b5bde6ab5e013d81df2d16ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_4e89981344881bed137732102d33f050bae72c14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\043f2e87358b67905473acac50fc1292ec33a8eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc62faaeb4bc5f6d66066ddec1d7166e01727508\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\12f6efa368d402e72ea80fe1d5e9aac00d10a3de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_804fb4fddfc945f7ada1644d7dedbd1a7497e22f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.3.1\be29b24233711c419ce935aa0a1b12ebc49d1c9a\firebase-client-android-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.3.1_ca8d587ef249b20b935527ee5bb6ffc26db675b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_86f5c5713c1f166e63d5c5808c69b47b9c052cd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\f1e76bdd66bb99ab48c946b9b8fa11ee83282217\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb78f13e62a5947ec25954d5222f944cbe0a6e3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.2.0\1ea229d6984444c8c58b8e97ba4c8429d9d135b3\okhttp-ws-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1ea229d6984444c8c58b8e97ba4c8429d9d135b3">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-ws-3.2.0_75bc5f48f78a835b95772a3440958f1787d2cf31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\java-sdk\3.0.0-RC1\b85906100104182671e77beb9d93b02fc876e68a\java-sdk-3.0.0-RC1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b85906100104182671e77beb9d93b02fc876e68a">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\java-sdk-3.0.0-RC1_e7c4cee2af6a1c4b59bc8bee88376df00cd34746\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\3f6952a7eb6bbdaa58622940629120d691bdef66\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1471fd717e081cc5a088f95805b079a8ccf46e0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\ed5ff949badce85df2fd7e8d9924ade309d7f865\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f34a8aeb0eaaa2d69752d56102a8c808117058e">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a2cf194d650e5cf7030fdef59bb12351f6f009b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_6966176fbc34296aab655d5d7f873965e60b5d41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\4b217182e7d0730942ea0c9171c8b429855fd9fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7eadfbeeb1f9929039e8cdbf6dc6fed953e0a336\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\a748e79f5c65f1121c3d352363599c495ceddaed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_78b79e48fb5d3be3323761d07063c568837911d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\64662ff99ac5e7edbe0282acbc8c7a2c5b178359\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5255b006c98784fbb9a95d2f101894673adeb3d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_f09e1908dcbf066d933dc874bc1e426e7b5e0323\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.4\5fe28b9518e58819180a43a850fbc0dd24b7c050\commons-lang3-3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.4_fbdfc143336ea17bf38c074550e2e57545eb455f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\3fe5aa677ce5a24d5de54dbf008509bb06b80ec6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ee5f99a32547f47d21a1e93f462f6df1ffeb234\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\a9e1ec4ce3973a439db513a5052c4c724280bd82\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b78a9dd1bc9ef56dcec6f7a3e01ba5b2cf20b49c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.11\d37cb67277928cf59344b4196af8d9cee1f1a27c\tubesock-0.0.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.11_7d53a6c86828a4a00d7308074fb1a74827cc69e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\3d6e317daa13be223bfcb84805b8a51be1d1b8de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aa173df36200593fbc3c8d8bcaced7fb97ff5a7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\edca61ad2f797ce93865ef4173568414903abcac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cb2ef781533c3f11c4e80341cbaebad275c66586">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e8a24b4c8da3300af06989d7421ba1211d9ed23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_5cecf7303b2321e37d4f46f634bb253ebf85befa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\dfed6a2e1950fd30b1f6b3c77bf17882192bfa01\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94057d2198b22d5b4e91670d36672652a17e7ff6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_b5f295f6e43df73190e520386aae3573591f954a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\44c98f3155d7b4d2839a079b3fa12a3464d5648d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b23e5ff6014a27b60bc53a853ffbffcf4af313e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\7d00896097748396b4cd42e013d2e6ec25cb1cd4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1910d2123c2cb474f8660f41c2b92105e01d9454\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\b557d1dc314c8541dad2dce6a87d827532b347d5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72a42866fdd3efc3462b25a608807f39bbda9935\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\bcba66685e2374011c17d2d33e8d1a84735d5618\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3317b14ba421f26f1e65bc05e10699b3588b10da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\9176ac9c6cc1e57760c71bb59dbed2d4f635616a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_acf1b901b005c71f988928e1ed0b627e7824df2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8d160b1dbb7619f9b8474319dd6215996acffcc6">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_20f962a3234dacf03946cb27c2dfe331e58f1de6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul\.android\build-cache\9b35440ddf7f24c1908360ba89aed6e4ee0795b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\Rahul\Desktop\UberApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_240aa4fc28464e696a5312fd44c8930a419b888a\classes.dex" />
+    </item>
+
+</items>

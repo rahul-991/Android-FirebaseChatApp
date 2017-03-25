@@ -1,0 +1,67 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:facebook="http://schemas.android.com/tools"
+    xmlns:tools="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorPrimary"
+    android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+    android:orientation="vertical"
+    android:gravity="top"
+    android:layout_height="wrap_content"
+    android:weightSum="1"
+    android:paddingTop="40dp"
+    android:paddingLeft="10dp"
+    android:paddingBottom="5dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/user_profilepic"
+        android:layout_height="79dp"
+        android:layout_width="77dp"
+        tools:civ_border_width="2dp"
+        tools:civ_border_color="#FF000000"
+        facebook:ignore="RtlHardcoded,RtlSymmetry"
+        android:layout_weight="0.22" />
+
+    <TextView
+        android:id="@+id/user_username"
+        android:text="username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorLink="@color/colorAccent"
+        android:textAlignment="textStart"
+        android:textSize="14sp"
+        facebook:ignore="HardcodedText"
+        android:paddingTop="10dp"
+        android:textColor="@color/white"
+        android:textStyle="normal"
+        android:textAllCaps="true" />
+
+    <TextView
+        android:id="@+id/user_fullname"
+        android:text="fullname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorLink="@color/colorAccent"
+        android:textAlignment="textStart"
+        android:textSize="14sp"
+        facebook:ignore="HardcodedText"
+        android:paddingTop="10dp"
+        android:textColor="@color/white"
+        android:textStyle="normal"
+        android:textAllCaps="true" />
+
+    <TextView
+        android:id="@+id/user_emailID"
+        android:text="emailID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorLink="@color/colorAccent"
+        android:textAlignment="textStart"
+        android:textSize="14sp"
+        facebook:ignore="HardcodedText,RtlHardcoded,RtlSymmetry"
+        android:paddingTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/white"
+        android:textStyle="normal"
+        android:textAllCaps="true" />
+
+</LinearLayout>

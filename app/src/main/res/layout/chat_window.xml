@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ChatWindow">
+
+    <LinearLayout
+        android:id="@+id/LinearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/ChatWindow_toolbar"
+        android:layout_above="@+id/form"
+        android:scrollbarSize="20dp">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/messagesList"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="top"
+            android:clickable="true"
+            android:clipChildren="false"
+            android:clipToPadding="false"
+            android:fadeScrollbars="false"
+            android:minHeight="0dp"
+            android:scrollbars="vertical"
+            tools:listitem="@layout/message" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/form"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:background="#91f1f1f1"
+        android:orientation="horizontal">
+
+
+        <EditText
+            android:id="@+id/MessageText"
+            android:layout_width="304dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignTop="@+id/button1"
+            android:layout_toLeftOf="@+id/sendMessageButton"
+            android:ems="10"
+            android:maxHeight="80dp"
+            android:hint="Type a message..."
+            android:layout_marginLeft="10dp" />
+
+        <ImageButton
+            android:id="@+id/SendButton"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/send"
+            android:text="d" />
+    </LinearLayout>
+
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/ChatWindow_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@android:color/holo_blue_dark"
+        android:fitsSystemWindows="true"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+        app:title="Recepient"
+        app:titleMarginStart="20dp"
+        app:titleTextColor="@color/white">
+
+        <Button
+            android:id="@+id/AnalyzeButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="right"
+            android:layout_weight="1"
+            android:background="@android:color/holo_orange_light"
+            android:elevation="0dp"
+            android:text="ANALYZE"
+            app:fabSize="normal" />
+
+    </android.support.v7.widget.Toolbar>
+
+
+
+</RelativeLayout>
+
+<!--
+<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/ChatWindow_toolbar">
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="292dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:textColorHint="@color/colorPrimary"
+            android:overScrollMode="always"
+            android:outlineProvider="bounds"
+            android:isScrollContainer="true">
+
+            <EditText
+                android:layout_height="41dp"
+                android:hint="Message"
+                android:id="@+id/MessageText"
+                android:layout_width="304dp"
+                android:layout_marginEnd="85dp"
+                style="@android:style/Widget.DeviceDefault.AutoCompleteTextView"
+                android:textStyle="normal|bold" />
+        </android.support.design.widget.TextInputLayout>
+    </LinearLayout>
+
+
+<Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/SendButton"
+        style="@android:style/Widget.DeviceDefault.Button"
+        android:background="@android:color/background_light"
+        android:elevation="0dp"
+        android:visibility="visible"
+        android:focusable="false"
+        android:gravity="top"
+        android:foreground="@android:drawable/ic_menu_send"
+        android:minHeight="42dp"
+        android:minWidth="70dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:clickable="false"
+        android:enabled="true" />
+
+
+
+
+
+
+
+
+
+
+
+<EditText
+                android:id="@+id/MessageText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:hint="Type your message"
+                android:layout_alignBottom="@+id/LinearLayout1"
+                android:layout_alignParentStart="true"
+                android:paddingRight="10dp"
+                android:textStyle="bold"
+                android:layout_marginBottom="0dp"
+                android:gravity="bottom" />
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".ChatWindow"
+    android:clickable="false"
+    android:background="@color/white"
+    style="@style/AppTheme">
+<LinearLayout
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:paddingBottom="65dp">
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ListView"
+        tools:listitem="@layout/message"
+        android:layout_gravity="top"
+        style="@style/AppTheme" />
+</LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="bottom">
+
+    <EditText
+        android:id="@+id/MessageText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:hint="Type your message"
+        android:layout_alignBottom="@+id/LinearLayout1"
+        android:layout_alignParentStart="true"
+        android:paddingRight="10dp"
+        android:textStyle="bold"
+        android:layout_marginBottom="0dp"
+        android:gravity="bottom" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send"
+        android:id="@+id/SendButton"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_toEndOf="@+id/MessageText"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"/>
+</LinearLayout>
+
+</RelativeLayout> -->
