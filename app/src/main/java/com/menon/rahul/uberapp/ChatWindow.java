@@ -125,9 +125,9 @@ public class ChatWindow extends AppCompatActivity
 
         toolbar.setTitle(ChatRecepient);
 
-        FirebaseDBGroup = "https://fir-uberapp.firebaseio.com/GroupMessages/"+ChatRecepient;
+        FirebaseDBGroup = /*Firebase Database URL*/+ChatRecepient;
         MyUserName = SignedInUser.getUserName();
-        FirebaseDBPrivate = "https://fir-uberapp.firebaseio.com/PrivateChat/";
+        FirebaseDBPrivate = /*Firebase Database URL*/;
         ChatType = getIntent().getStringExtra("Chat_type");
 
         window.clearFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
